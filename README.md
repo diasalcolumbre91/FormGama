@@ -1,6 +1,6 @@
-#DESAFIO ITAUTECH - FORMULÁRIO DE CADASTRO PESSOAL
+# DESAFIO ITAUTECH - FORMULÁRIO DE CADASTRO PESSOAL
 
-##DESCRIÇÃO
+## DESCRIÇÃO
 Buscou-se desenvolver um formulário simples para cadastro, que receba principais dados (nome, CPF, RG, endereço etc.) requisitos estabelecidos
 previamente pela organização do projeto.
 
@@ -9,7 +9,7 @@ previamente pela organização do projeto.
 - Autor:Leandro Alcolumbre.
 
 
-###Estrutura dos arquivos
+### Estrutura dos arquivos
 
 - HTML:
 
